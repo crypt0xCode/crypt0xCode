@@ -1,5 +1,5 @@
 # 💫 About Me:
-🪙 Web3 + AI enthusiast 🪙<br><br>💻 I’m currently working on my own Web3 projects.<br>🤝 I’m looking to collaborate with Web3 enthusiast (not scammers, drainers, criminals etc.)<br>🙌 I’m currently learning Python (Web3 libraries) and Solidity.<br>💬 Ask me about my way in crypto and Web3 in Telegram channel: https://t.me/crypt0xCode<br><br>💰 Support (not required):<br>BTC: bc1q4z6586jxlj7ffp7gq84wvzkundxzrkcehg44my<br>ETH: 0x18eD7D611a28a52C2CAD3fCA49250Ff6Abe03a9C
+🪙 Web3 + AI enthusiast 🪙<br><br>💻 I’m currently working on my own Web3 projects.<br>🤝 I’m looking to collaborate with Web3 enthusiast (not scammers, drainers, criminals etc.)<br>🙌 I’m currently learning Python (Web3 libraries) and Solidity.<br>💬 Ask me about my way in crypto and Web3 in Telegram channel: https://t.me/crypt0xCode<br><br>💰 Support:<br>BTC: bc1q4z6586jxlj7ffp7gq84wvzkundxzrkcehg44my<br>ETH: 0x18eD7D611a28a52C2CAD3fCA49250Ff6Abe03a9C
 
 
 # 💻 Tech Stack:
@@ -11,5 +11,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=crypt0xCode&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
